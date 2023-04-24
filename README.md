@@ -67,6 +67,7 @@ Some of the tools may be specifically designed for red teaming, while others are
             <li><b><a href="#dismap">Dismap</a></b><i> Asset discovery/identification</i></li>
             <li><b><a href="#enum4linux">enum4linux</a></b><i> Windows/samba enumeration</i></li>
             <li><b><a href="#skanuvaty">skanuvaty</a></b><i> Dangerously fast dns/network/port scanner</i></li>
+		<li><b><a href="#illicit.cervice">illicit.cervice</a></b><i> Osint website looking thru database leak</i></li>
             <li><b><a href="#metabigor">Metabigor</a></b><i> OSINT tool without API</i></li>
             <li><b><a href="#gitrob">Gitrob</a></b><i> GitHub sensitive information scanner</i></li>
             <li><b><a href="#gowitness">gowitness</a></b><i> Web screenshot utility using Chrome Headless</i></li>
@@ -973,6 +974,13 @@ echo 'https://example.com' | metabigor related -s 'google-analytic'
 ![image](https://user-images.githubusercontent.com/100603074/210982590-44d58bfc-3b1b-4e11-b8f3-58c5a517626d.png)
 
 *Image used from https://github.com/j3ssie/metabigor*
+
+### [🔙](#tool-list)[illicit.services](https://search.illicit.services/)
+
+Illicit.services is a website. You can enter the name, nickname, email, phone number, address, ect... It will look thru more then 12B record leaked database
+
+you can find the password, the geographical localisation, username, alternatives email of the victim.
+
 
 ### [🔙](#tool-list)[Gitrob](https://github.com/michenriksen/gitrob)
 
